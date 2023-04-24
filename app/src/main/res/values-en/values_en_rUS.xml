@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="Debuter_le_jeu">Start the game</string>
+    <string name="Trouver_ce_mot">Find the word:</string>
+    <string name="le_mot_était">The word was</string>
+    <string name="rejouer">rematch</string>
+</resources>

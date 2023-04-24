@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">LePendu</string>
-    <string name="Debuter_le_jeu">Debuté le jeu</string>
-    <string name="Trouver_ce_mot">Trouver ce mot</string>
+    <string name="Debuter_le_jeu">Débuter le jeu</string>
+    <string name="Trouver_ce_mot">Trouver ce mot:</string>
     <string name="le_mot_était">Le mot était</string>
     <string name="rejouer">rejouer</string>
 </resources>
